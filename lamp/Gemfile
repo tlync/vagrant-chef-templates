@@ -1,0 +1,4 @@
+source :rubygems
+
+gem "chef", :git => "https://github.com/opscode/chef.git"
+gem "vagrant"
